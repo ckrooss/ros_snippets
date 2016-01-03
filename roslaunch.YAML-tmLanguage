@@ -1,0 +1,10 @@
+# [PackageDev] target_format: plist, ext: tmLanguage
+---
+name: Roslaunch
+scopeName: text.roslaunch
+fileTypes: [launch, test]
+uuid: a9c17bce-454b-4832-851b-39545aed554c
+
+patterns:
+- include: text.xml
+...

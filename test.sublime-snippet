@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<test test-name="${1:name}" pkg="${2:package}" type="${3:test_type.py}" time-limit="60.0" retry="0" launch-prefix=""/>
+]]></content>
+    <tabTrigger>test</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch test completion</description>
+</snippet>

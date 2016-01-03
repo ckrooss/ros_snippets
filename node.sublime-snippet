@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<node name="${1:name}" pkg="${2:package}" type="${1:name}" output="${3:screen}" respawn="${4:true}" args="" />
+]]></content>
+    <tabTrigger>node</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch node completion</description>
+</snippet>

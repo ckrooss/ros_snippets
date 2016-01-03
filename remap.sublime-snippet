@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<remap from="${1:from}" to="${2:to}"/>
+]]></content>
+    <tabTrigger>remap</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch remap completion</description>
+</snippet>

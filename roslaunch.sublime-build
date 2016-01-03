@@ -1,0 +1,6 @@
+{
+    "cmd": ["roslaunch --screen $file"],
+    "selector": "text.roslaunch",
+    "shell": true,
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+}

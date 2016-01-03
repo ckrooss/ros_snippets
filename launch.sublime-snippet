@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<launch>
+
+</launch>
+]]></content>
+    <tabTrigger>launch</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch launch completion</description>
+</snippet>

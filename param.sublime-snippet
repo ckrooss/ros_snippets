@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<param name="${1:name}" value="${2:value}"/>
+]]></content>
+    <tabTrigger>param</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch param completion</description>
+</snippet>

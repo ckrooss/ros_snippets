@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<group ns="${1:namespace}">
+</group>
+]]></content>
+    <tabTrigger>group</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch group completion</description>
+</snippet>
