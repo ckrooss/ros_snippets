@@ -10,5 +10,6 @@ expands to
 
      <node name="name" pkg="package" type="name" output="screen" respawn="true" args="" />
 
+Included snippets are: env, group, launch, node, param, remap and test.
 # Build System
 A new build system is added for .launch files. It just launches roslaunch --screen $file
