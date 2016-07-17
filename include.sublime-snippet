@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<include file="${1:\$(find pkg-name)/path/filename.xml}" ns="${2}" clear_params="${3:false}" pass_all_args="${4:false}" />
+]]></content>
+    <tabTrigger>include</tabTrigger>
+    <scope>text.roslaunch</scope>
+    <description>Roslaunch include completion</description>
+</snippet>
