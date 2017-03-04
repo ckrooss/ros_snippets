@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Header header]]></content>
+    <tabTrigger>Hea</tabTrigger>
+    <scope>source.rosmsg</scope>
+    <description>Header Snippet</description>
+</snippet>
