@@ -45,7 +45,7 @@ contexts:
   
   equals:
     - match: (=)
-      scope: keyword.operator.assignment.java
+      scope: keyword.operator.assignment.rosmsg
 
   types:
     # match ROS primitive types
